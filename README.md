@@ -37,29 +37,59 @@ I have a strong track record of delivering **scalable, high-performance, and res
 ![Android](https://img.shields.io/badge/Android-%233DDC84?style=for-the-badge&logo=android&logoColor=white)
 ![React](https://img.shields.io/badge/React-%2300D9D9?style=for-the-badge&logo=react&logoColor=black)
 
+### **DevOps & Infrastructure**
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7A3D6C?style=for-the-badge&logo=terraform&logoColor=white)
+![CI/CD](https://img.shields.io/badge/CI/CD-008C5E?style=for-the-badge&logo=gitlab&logoColor=white)
+
+### **Cloud**
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+
+### **Messaging & Event-Driven Architecture**
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-61D6B8?style=for-the-badge&logo=rabbitmq&logoColor=white)
+![Kafka](https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
+![ActiveMQ](https://img.shields.io/badge/ActiveMQ-003C48?style=for-the-badge&logo=apacheactivemq&logoColor=white)
+![Azure Event Hub](https://img.shields.io/badge/Azure%20Event%20Hub-0078D4?style=for-the-badge&logo=azureeventhub&logoColor=white)
+![Amazon SQS](https://img.shields.io/badge/Amazon%20SQS-232F3E?style=for-the-badge&logo=amazonsqs&logoColor=white)
+![Amazon SNS](https://img.shields.io/badge/Amazon%20SNS-232F3E?style=for-the-badge&logo=amazonsns&logoColor=white)
+
+
+### **Monitoring & Observability**
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
+![Datadog](https://img.shields.io/badge/Datadog-6330A3?style=for-the-badge&logo=datadog&logoColor=white)
+![New Relic](https://img.shields.io/badge/New%20Relic-00A8E8?style=for-the-badge&logo=newrelic&logoColor=white)
+![OpenTelemetry](https://img.shields.io/badge/OpenTelemetry-7F8A94?style=for-the-badge&logo=opentelemetry&logoColor=white)
+![New Relic](https://img.shields.io/badge/New%20Relic-000000?style=for-the-badge&logo=newrelic&logoColor=white)
+![Dynatrace](https://img.shields.io/badge/Dynatrace-6C6CE5?style=for-the-badge&logo=dynatrace&logoColor=white)
+![Splunk](https://img.shields.io/badge/Splunk-0073B7?style=for-the-badge&logo=splunk&logoColor=white)
 
 ## 📊  GitHub Stats
 
 <div align="center">
   <a href="https://github.com/deividsantosr">
-    <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=deividsantosr&theme=radical&hide_border=true" alt="GitHub Profile Summary" width="830" />
+    <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=deividsantosr&theme=radical&hide_border=true" alt="GitHub Profile Summary" width="700" />
   </a>
-</div>
-<br>
-
-<div align="center">
+  <br>
+  <br>
+  
   <a href="https://github.com/deividsantosr">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=deividsantosr&show_icons=true&theme=radical&hide_border=true" alt="Deivid's GitHub Stats" width="830" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=deividsantosr&show_icons=true&theme=radical&hide_border=true" alt="Deivid's GitHub Stats" width="700" />
   </a>
-</div>
-<br>
+  <br>
+  <br>
 
-<div align="center">
   <a href="https://github.com/deividsantosr">
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=deividsantosr&theme=radical&hide_border=true" alt="GitHub Streak" width="535" />
+    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=deividsantosr&theme=radical&hide_border=true" alt="GitHub Streak" width="700" />
   </a>
+  <br>
+  <br>
 
-  <a href="https://github.com/deividsantosr" style="text-decoration: none;">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=deividsantosr&layout=compact&langs_count=10&theme=radical&hide_border=true" alt="Most Used Languages" width="295" />
+  <a href="https://github.com/deividsantosr">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=deividsantosr&layout=compact&langs_count=10&theme=radical&hide_border=true" alt="Most Used Languages" width="700" />
   </a> 
 </div>
