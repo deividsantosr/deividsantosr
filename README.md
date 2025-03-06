@@ -57,7 +57,6 @@ I have a strong track record of delivering **scalable, high-performance, and res
 ![Amazon SQS](https://img.shields.io/badge/Amazon%20SQS-232F3E?style=for-the-badge&logo=amazonsqs&logoColor=white)
 ![Amazon SNS](https://img.shields.io/badge/Amazon%20SNS-232F3E?style=for-the-badge&logo=amazonsns&logoColor=white)
 
-
 ## Monitoring & Observability
 ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
@@ -68,7 +67,7 @@ I have a strong track record of delivering **scalable, high-performance, and res
 ![Dynatrace](https://img.shields.io/badge/Dynatrace-6C6CE5?style=for-the-badge&logo=dynatrace&logoColor=white)
 ![Splunk](https://img.shields.io/badge/Splunk-0073B7?style=for-the-badge&logo=splunk&logoColor=white)
 
-## GitHub Stats
+## 📊 GitHub Stats
 
 <div align="center">
   <a href="https://github.com/deividsantosr">
