@@ -44,7 +44,7 @@ I have a strong track record of delivering **scalable, high-performance, and res
 ![Terraform](https://img.shields.io/badge/Terraform-7A3D6C?style=for-the-badge&logo=terraform&logoColor=white)
 ![CI/CD](https://img.shields.io/badge/CI/CD-008C5E?style=for-the-badge&logo=gitlab&logoColor=white)
 
-### **Cloud**
+### **Cloud Computing**
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![Azure](https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoftazure&logoColor=white)
 ![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
