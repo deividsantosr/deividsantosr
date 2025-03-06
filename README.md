@@ -15,8 +15,8 @@ I have a strong track record of delivering **scalable, high-performance, and res
 
 ## Back-End
 
-![Java](https://img.shields.io/badge/Java-%23F8981D?style=for-the-badge&logo=java&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-%23E2E2E2?style=for-the-badge&logo=c-sharp&logoColor=black)
+![Java](https://img.shields.io/badge/Java-%23FF0000.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-%237A10F4.svg?style=for-the-badge&logo=csharp&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![PHP](https://img.shields.io/badge/PHP-%23777777?style=for-the-badge&logo=php&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-%233776CC?style=for-the-badge&logo=python&logoColor=white)
