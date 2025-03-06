@@ -72,27 +72,27 @@ I have a strong track record of delivering **scalable, high-performance, and res
 
 <div align="center">
   <a href="https://github.com/deividsantosr">
-    <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=deividsantosr&theme=radical&hide_border=true" alt="GitHub Profile Summary" width="700" />
+    <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=deividsantosr&theme=radical&hide_border=true" alt="GitHub Profile Summary" width="auto" />
   </a>
   
   <br>
   <br>
   
   <a href="https://github.com/deividsantosr">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=deividsantosr&show_icons=true&theme=radical&hide_border=true" alt="Deivid's GitHub Stats" width="700" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=deividsantosr&show_icons=true&theme=radical&hide_border=true" alt="Deivid's GitHub Stats" width="auto" />
   </a>
   
   <br>
   <br>
 
   <a href="https://github.com/deividsantosr">
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=deividsantosr&theme=radical&hide_border=true" alt="GitHub Streak" width="700" />
+    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=deividsantosr&theme=radical&hide_border=true" alt="GitHub Streak" width="auto" />
   </a>
   
   <br>
   <br>
   
   <a href="https://github.com/deividsantosr">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=deividsantosr&layout=compact&langs_count=10&theme=radical&hide_border=true" alt="Most Used Languages" width="700" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=deividsantosr&layout=compact&langs_count=10&theme=radical&hide_border=true" alt="Most Used Languages" width="auto" />
   </a> 
 </div>
