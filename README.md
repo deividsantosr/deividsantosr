@@ -1,12 +1,10 @@
-# 👋 Hey there! Welcome to my GitHub profile!  
-
-## 🚀 About Me  
+# 👋 Hey there! I'm Deivid
 
 I’m a **Software Developer** with over a decade of experience, specializing in **back-end engineering** since 2013.
 
 I have a strong track record of delivering **scalable, high-performance, and resilient** solutions across diverse industries.  
 
-## 💡 What I Do  
+## 🚀 What I Do  
 - 🏗 **Back-end Architecture:** Designing and optimizing scalable and robust systems.  
 - ☁ **Cloud & DevOps:** Enhancing cloud integration and streamlining automation.
 - 🎨 **Front-end Development:** Creating interactive and responsive user interfaces.  
@@ -39,44 +37,28 @@ I have a strong track record of delivering **scalable, high-performance, and res
 ![Android](https://img.shields.io/badge/Android-%233DDC84?style=for-the-badge&logo=android&logoColor=white)
 ![React](https://img.shields.io/badge/React-%2300D9D9?style=for-the-badge&logo=react&logoColor=black)
 
-## 📊 Dashboards
 
-### 1. GitHub Stats
+## 📊  GitHub Stats
 
-Here are some general stats about my GitHub profile:
+# 🚀 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical)
-
-### 2. GitHub Streak
-
-Here's my current GitHub streak:
-
-![Activity](https://github-readme-streak-stats.herokuapp.com/?user=your-github-username&theme=radical)
-
-### 3. Top Languages
-
-Check out the languages I use the most on GitHub:
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=radical)
-
-### 4. Contributions to Open Source
-
-Here’s how many contributions I made to open source projects this year:
-
-![Open Source Contributions](https://github-readme-activity-graph.cyclic.app/graph?username=your-github-username&theme=radical)
-
-### 5. Repository Insights
-
-A quick overview of my most popular repositories:
-
-![Popular Repos](https://github-readme-visualizer.herokuapp.com/?username=your-github-username&repo=your-repo)
-
-## 📈 My Stats
-
-**GitHub Activity:**
-
-![Activity](https://github-readme-streak-stats.herokuapp.com/?user=your-github-username&theme=radical)
-
-## 💬 Connect with Me
-
-- [LinkedIn](https://www.linkedin.com/in/deividsantosr/)
+<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
+  <a href="https://github.com/deividsantosr">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=deividsantosr&show_icons=true&include_all_commits=true&count_private=true&theme=radical&hide_border=true" alt="Deivid's GitHub Stats" width="415" />
+  </a>
+  <a href="https://github.com/deividsantosr">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=deividsantosr&layout=compact&langs_count=10&theme=radical&hide_border=true" alt="Most Used Languages" width="415" />
+  </a>
+  <a href="https://github.com/deividsantosr">
+    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=deividsantosr&theme=radical&hide_border=true" alt="GitHub Streak" width="415" />
+  </a>
+  <a href="https://github.com/deividsantosr">
+    <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=deividsantosr&theme=radical" alt="GitHub Profile Summary" width="415" />
+  </a>
+  <a href="https://github.com/deividsantosr">
+    <img align="center" src="https://github-profile-trophy.vercel.app/?username=deividsantosr&theme=radical&no-frame=true&margin-w=10" alt="GitHub Trophies" width="415" />
+  </a>
+  <a href="https://github.com/deividsantosr">
+    <img align="center" src="https://activity-graph.herokuapp.com/graph?username=deividsantosr&theme=radical" alt="GitHub Activity Graph" width="415" />
+  </a>
+</div>
