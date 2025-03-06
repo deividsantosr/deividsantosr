@@ -41,19 +41,19 @@ I have a strong track record of delivering **scalable, high-performance, and res
 ## 📊  GitHub Stats
 
 <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
-  <a href="https://github.com/deividsantosr">
+  <a href="https://github.com/deividsantosr" style="text-decoration: none;">
     <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=deividsantosr&theme=radical" alt="GitHub Profile Summary" width="830" />
   </a>
   
-  <a href="https://github.com/deividsantosr">
+  <a href="https://github.com/deividsantosr" style="text-decoration: none;">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=deividsantosr&show_icons=true&theme=radical&hide_border=true" alt="Deivid's GitHub Stats" width="830" />
   </a>
   
-  <a href="https://github.com/deividsantosr">
+  <a href="https://github.com/deividsantosr" style="text-decoration: none;">
     <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=deividsantosr&theme=radical&hide_border=true" alt="GitHub Streak" width="535" />
   </a>
 
-  <a href="https://github.com/deividsantosr">
+  <a href="https://github.com/deividsantosr" style="text-decoration: none;">
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=deividsantosr&layout=compact&langs_count=10&theme=radical&hide_border=true" alt="Most Used Languages" width="295" />
   </a> 
 </div>
