@@ -13,7 +13,7 @@ I have a strong track record of delivering **scalable, high-performance, and res
   
 ## ⚙️ Technologies I Use
 
-### Back-End
+## Back-End
 
 ![Java](https://img.shields.io/badge/Java-%23F8981D?style=for-the-badge&logo=java&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-%23E2E2E2?style=for-the-badge&logo=c-sharp&logoColor=black)
@@ -21,14 +21,14 @@ I have a strong track record of delivering **scalable, high-performance, and res
 ![PHP](https://img.shields.io/badge/PHP-%23777777?style=for-the-badge&logo=php&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-%233776CC?style=for-the-badge&logo=python&logoColor=white)
 
-### Front-End
+## Front-End
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-%233178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-%231572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-### Frameworks
+## Frameworks
 
 ![Spring](https://img.shields.io/badge/Spring-%236DB33F?style=for-the-badge&logo=spring&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-%23F7DF1E?style=for-the-badge&logo=node.js&logoColor=black)
@@ -37,19 +37,19 @@ I have a strong track record of delivering **scalable, high-performance, and res
 ![Android](https://img.shields.io/badge/Android-%233DDC84?style=for-the-badge&logo=android&logoColor=white)
 ![React](https://img.shields.io/badge/React-%2300D9D9?style=for-the-badge&logo=react&logoColor=black)
 
-### **DevOps & Infrastructure**
+## DevOps & Infrastructure
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
 ![Terraform](https://img.shields.io/badge/Terraform-7A3D6C?style=for-the-badge&logo=terraform&logoColor=white)
 ![CI/CD](https://img.shields.io/badge/CI/CD-008C5E?style=for-the-badge&logo=gitlab&logoColor=white)
 
-### **Cloud Computing**
+### Cloud Computing
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![Azure](https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoftazure&logoColor=white)
 ![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
 
-### **Messaging & Event-Driven Architecture**
+## Messaging & Event-Driven Architecture
 ![RabbitMQ](https://img.shields.io/badge/RabbitMQ-61D6B8?style=for-the-badge&logo=rabbitmq&logoColor=white)
 ![Kafka](https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
 ![ActiveMQ](https://img.shields.io/badge/ActiveMQ-003C48?style=for-the-badge&logo=apacheactivemq&logoColor=white)
@@ -58,7 +58,7 @@ I have a strong track record of delivering **scalable, high-performance, and res
 ![Amazon SNS](https://img.shields.io/badge/Amazon%20SNS-232F3E?style=for-the-badge&logo=amazonsns&logoColor=white)
 
 
-### **Monitoring & Observability**
+## Monitoring & Observability
 ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
 ![Datadog](https://img.shields.io/badge/Datadog-6330A3?style=for-the-badge&logo=datadog&logoColor=white)
@@ -68,7 +68,7 @@ I have a strong track record of delivering **scalable, high-performance, and res
 ![Dynatrace](https://img.shields.io/badge/Dynatrace-6C6CE5?style=for-the-badge&logo=dynatrace&logoColor=white)
 ![Splunk](https://img.shields.io/badge/Splunk-0073B7?style=for-the-badge&logo=splunk&logoColor=white)
 
-## 📊  GitHub Stats
+## GitHub Stats
 
 <div align="center">
   <a href="https://github.com/deividsantosr">
