@@ -51,7 +51,7 @@ I have a strong track record of delivering **scalable, high-performance, and res
 
 ## Messaging & Event-Driven Architecture
 ![RabbitMQ](https://img.shields.io/badge/RabbitMQ-61D6B8?style=for-the-badge&logo=rabbitmq&logoColor=white)
-![Kafka](https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
+![Kafka](https://img.shields.io/badge/Apache_Kafka-D42029?style=for-the-badge&logo=Apache-Kafka&logoColor=white)
 ![ActiveMQ](https://img.shields.io/badge/ActiveMQ-003C48?style=for-the-badge&logo=apacheactivemq&logoColor=white)
 ![Azure Event Hub](https://img.shields.io/badge/Azure%20Event%20Hub-0078D4?style=for-the-badge&logo=azureeventhub&logoColor=white)
 ![Amazon SQS](https://img.shields.io/badge/Amazon%20SQS-232F3E?style=for-the-badge&logo=amazonsqs&logoColor=white)
@@ -62,10 +62,10 @@ I have a strong track record of delivering **scalable, high-performance, and res
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
 ![Datadog](https://img.shields.io/badge/Datadog-6330A3?style=for-the-badge&logo=datadog&logoColor=white)
 ![New Relic](https://img.shields.io/badge/New%20Relic-00A8E8?style=for-the-badge&logo=newrelic&logoColor=white)
-![OpenTelemetry](https://img.shields.io/badge/OpenTelemetry-7F8A94?style=for-the-badge&logo=opentelemetry&logoColor=white)
+![OpenTelemetry](https://img.shields.io/badge/OpenTelemetry-FF7F32?style=for-the-badge&logo=OpenTelemetry&logoColor=white)
 ![New Relic](https://img.shields.io/badge/New%20Relic-000000?style=for-the-badge&logo=newrelic&logoColor=white)
 ![Dynatrace](https://img.shields.io/badge/Dynatrace-6C6CE5?style=for-the-badge&logo=dynatrace&logoColor=white)
-![Splunk](https://img.shields.io/badge/Splunk-0073B7?style=for-the-badge&logo=splunk&logoColor=white)
+![Splunk](https://img.shields.io/badge/Splunk-00A100?style=for-the-badge&logo=splunk&logoColor=white)
 
 ## 📊 GitHub Stats
 
