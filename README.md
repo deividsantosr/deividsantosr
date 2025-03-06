@@ -44,21 +44,24 @@ I have a strong track record of delivering **scalable, high-performance, and res
 
 <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
   <a href="https://github.com/deividsantosr">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=deividsantosr&show_icons=true&include_all_commits=true&count_private=true&theme=radical&hide_border=true" alt="Deivid's GitHub Stats" width="415" />
-  </a>
-  <a href="https://github.com/deividsantosr">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=deividsantosr&layout=compact&langs_count=10&theme=radical&hide_border=true" alt="Most Used Languages" width="415" />
-  </a>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=deividsantosr&show_icons=true&theme=radical&hide_border=true" alt="Deivid's GitHub Stats" width="415" />
+</a>
   <a href="https://github.com/deividsantosr">
     <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=deividsantosr&theme=radical&hide_border=true" alt="GitHub Streak" width="415" />
   </a>
   <a href="https://github.com/deividsantosr">
-    <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=deividsantosr&theme=radical" alt="GitHub Profile Summary" width="415" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=deividsantosr&layout=compact&langs_count=10&theme=radical&hide_border=true" alt="Most Used Languages" width="415" />
+  </a>
+  
+  <a href="https://github.com/deividsantosr">
+    <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=deividsantosr&theme=radical" alt="GitHub Profile Summary" width="830" />
   </a>
   <a href="https://github.com/deividsantosr">
-    <img align="center" src="https://github-profile-trophy.vercel.app/?username=deividsantosr&theme=radical&no-frame=true&margin-w=10" alt="GitHub Trophies" width="415" />
+    <img align="center" src="https://github-profile-trophy.vercel.app/?username=deividsantosr&theme=radical&no-frame=true&margin-w=10" alt="GitHub Trophies" width="830" />
   </a>
-  <a href="https://github.com/deividsantosr">
-    <img align="center" src="https://activity-graph.herokuapp.com/graph?username=deividsantosr&theme=radical" alt="GitHub Activity Graph" width="415" />
-  </a>
+<a href="https://github.com/deividsantosr">
+    <img align="center" src="https://activity-graph.herokuapp.com/graph?username=deividsantosr&theme=radical&hide_border=true" alt="GitHub Activity Graph" />
+</a>
+
+
 </div>
