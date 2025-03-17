@@ -89,7 +89,7 @@ I have a strong track record of delivering **scalable, high-performance, and res
   </a>
   
   <br>
-  <br
+  <br>
   
   <a href="https://github.com/deividsantosr">
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=deividsantosr&theme=radical&layout=compact&langs_count=200&hide_border=true" alt="Most Used Languages" width="650px" />
